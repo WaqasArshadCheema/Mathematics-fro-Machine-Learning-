@@ -1,1 +1,1 @@
-# Mathematics-fro-Machine-Learning-
+# Mathematics-for-Machine-Learning-
